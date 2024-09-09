@@ -1,13 +1,13 @@
 {
   "name": "desafio-zoo",
   "version": "1.0.0",
-  "description": "",
+  "description": "Organiza animais em um zoo, segundo sua especie e bioma natural",
   "type": "module",
   "scripts": {
     "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Umberto Alves",
   "license": "ISC",
   "devDependencies": {
     "jest": "^29.6.2"
